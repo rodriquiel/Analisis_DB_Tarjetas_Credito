@@ -12,7 +12,7 @@
 
 ### Uso de Python Pandas, Matplotlib, Seaborn, Scipy, Jupyter y Anaconda
 
-## Ejemplo de graficos generados luego del tratamiento de los datos
+## Ejemplo de resultados generados a partir del tratamiento de los datos
 
 ## Relacion entre edad y limite de la tarjeta mediante grafico de dispersion combinado con histograma desde distintas visuales
 
