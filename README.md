@@ -5,10 +5,10 @@
 ### Proyecto destinado a trabajar mediante el uso de una base de datos ya procesada de mas de 9 mil elementos con distintos metodos de la biblioteca Pandas y Seaborn perteneciente al lenguaje Python. El principal objetivo es crear gráficos que expresen y comuniquen mejor los insights encontrados.
 
 ### Conocimientos aplicados:
-### #Importar datos y trabajar con DataFrames
-### #Tratamiento de datos previo a su analisis
-### #Utilizar Seaborn para creación de diferentes gráficos
-### #Desarrollar técnicas graficas y cuantitativas, orientadas a obtener informaciones relevantes
+### ·Importar datos y trabajar con DataFrames
+### ·Tratamiento de datos previo a su analisis
+### ·Utilizar Seaborn para creación de diferentes gráficos
+### ·Desarrollar técnicas graficas y cuantitativas, orientadas a obtener informaciones relevantes
 
 ### Uso de Python Pandas, Matplotlib, Seaborn, Scipy, Jupyter y Anaconda
 
